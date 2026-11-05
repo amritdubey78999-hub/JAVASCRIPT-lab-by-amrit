@@ -1,4 +1,4 @@
-// Name: Nitin Kumar | Roll: BCS2025601 | Assignment 14 | Task 1
+// Name: Amrit kumar dubey | Roll: BCS2025539 | Assignment 14 | Task 1
 console.log("Start");
 
 setTimeout(() => {
