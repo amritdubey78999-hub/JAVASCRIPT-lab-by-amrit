@@ -1,4 +1,4 @@
-// Name: Nitin Kumar | Roll: BCS2025601 | Assignment 11 | Task 2
+// Name: Amrit dubey  | Roll: BCS2025539 | Assignment 11 | Task 2
 function makeCounter() {
   let count = 0;
   return function () {
