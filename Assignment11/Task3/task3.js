@@ -1,4 +1,4 @@
-// Name: Nitin Kumar | Roll: BCS2025601 | Assignment 11 | Task 3
+// Name: Amrit kumsr dubey  | Roll: BCS2025539 | Assignment 11 | Task 3
 const school = "Sample College";
 
 function showSchool() {
