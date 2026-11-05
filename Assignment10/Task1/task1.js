@@ -1,4 +1,4 @@
-// Name: Nitin Kumar | Roll: BCS2025601 | Assignment 10 | Task 1
+// Name: Amrit kumar dubey | Roll: BCS2025539 | Assignment 10 | Task 1
 const student = { name: "Rohan", roll: 12, marks: 78 };
 
 console.log(student.name);
