@@ -1,4 +1,4 @@
-// Name: Nitin Kumar | Roll: BCS2025601 | Assignment 8 | Task 1
+// Name: Amrit Kumar Dubey | Roll: BCS2025539 | Assignment 8 | Task 1
 class Person {
   constructor(name) {
     this.name = name;
