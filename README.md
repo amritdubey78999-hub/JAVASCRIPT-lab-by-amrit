@@ -1,7 +1,7 @@
 # JavaScript Practicals (BCS354)
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** Amrit kumar dubey
+**Roll No:** BCS2025539
 **Course:** B.Tech CSE, Second Year, Invertis University, Bareilly
 
 Each `LabN` folder has `script.js` (the code), `README.md` (aim, tasks, output) and `images/screenshot.png`.
