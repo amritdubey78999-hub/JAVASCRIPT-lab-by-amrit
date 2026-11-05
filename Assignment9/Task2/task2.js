@@ -1,4 +1,4 @@
-// Name: Nitin Kumar | Roll: BCS2025601 | Assignment 9 | Task 2
+// Name: Amrit Kumar dubey | Roll: BCS2025539 | Assignment 9 | Task 2
 function validateForm(name) {
   const errors = [];
   if (name.trim() === "") {
