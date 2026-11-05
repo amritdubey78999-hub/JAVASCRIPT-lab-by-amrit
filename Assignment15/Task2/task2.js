@@ -1,4 +1,4 @@
-// Name: Nitin Kumar | Roll: BCS2025601 | Assignment 15 | Task 2
+// Name: Amrit Kumar dubey  | Roll: BCS2025539 | Assignment 15 | Task 2
 function checkMarks(marks) {
   return new Promise((resolve, reject) => {
     if (marks >= 0 && marks <= 100) {
