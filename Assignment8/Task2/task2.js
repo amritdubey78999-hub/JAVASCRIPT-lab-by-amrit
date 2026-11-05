@@ -1,4 +1,4 @@
-// Name: Nitin Kumar | Roll: BCS2025601 | Assignment 8 | Task 2
+// Name: Amrit Kumar dubey | Roll: BCS2025601 | Assignment 8 | Task 2
 class Locker {
   constructor() {
     this.pin = 1234;
