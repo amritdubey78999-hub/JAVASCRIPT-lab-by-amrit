@@ -1,4 +1,4 @@
-// Name: Nitin Kumar | Roll: BCS2025601 | Assignment 3 | Task 1
+// Name: Amrit dubey  | Roll: BCS2025539 | Assignment 3 | Task 1
 const marks = 72;
 
 if (marks >= 75) {
