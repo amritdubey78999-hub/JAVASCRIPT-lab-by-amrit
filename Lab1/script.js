@@ -1,8 +1,3 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 1 - Your First JavaScript Script
-*/
 
 // Task 1 is in index.html (script tag inside the body, open in browser console)
 
