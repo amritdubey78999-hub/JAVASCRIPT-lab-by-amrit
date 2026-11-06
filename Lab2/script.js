@@ -1,9 +1,3 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 2 - Operators, Type Conversion and a Calculator
-*/
-
 // Task 1
 console.log("--- Task 1 ---");
 let a = 17;
