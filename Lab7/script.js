@@ -1,8 +1,4 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 7 - Constructor Functions and Classes
-*/
+
 
 // Task 1
 console.log("--- Task 1 ---");
