@@ -1,8 +1,4 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 13 - Reduce, Some, Every and Map
-*/
+
 
 // Task 1
 console.log("--- Task 1 ---");
