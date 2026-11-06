@@ -1,8 +1,4 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 15 - Promises and async/await with Local Data
-*/
+
 
 function checkMarks(marks) {
   return new Promise(function (resolve, reject) {
