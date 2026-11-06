@@ -1,8 +1,3 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 8 - Inheritance, Methods and Composition
-*/
 
 // Task 1
 console.log("--- Task 1 ---");
