@@ -1,8 +1,3 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 4 - Writing Functions
-*/
 
 // Task 1
 console.log("--- Task 1 ---");
