@@ -1,13 +1,8 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 2 - Operators, Type Conversion and a Calculator
--->
 
 # Assignment 2: Operators, Type Conversion and a Calculator
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** Amrit kumar dubey
+**Roll No:** BCS2025539
 **Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
 
 ## Aim
