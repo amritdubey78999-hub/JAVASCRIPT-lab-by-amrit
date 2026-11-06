@@ -1,8 +1,3 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 12 - Callbacks and Higher-Order Functions
-*/
 
 // Task 1
 console.log("--- Task 1 ---");
