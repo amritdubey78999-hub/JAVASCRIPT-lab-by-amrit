@@ -1,13 +1,9 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 14 - Timers and Intervals
--->
+
 
 # Assignment 14: Timers and Intervals
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** Amrit dubey
+**Roll No:** BCS2025539
 **Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
 
 ## Aim
