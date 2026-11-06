@@ -1,13 +1,8 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 3 - Conditions and Loops
--->
 
 # Assignment 3: Conditions and Loops
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** Amrit kumar dubey
+**Roll No:** BCS2025539
 **Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
 
 ## Aim
