@@ -1,8 +1,4 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 12 - Callbacks and Higher-Order Functions
--->
+
 
 # Assignment 12: Callbacks and Higher-Order Functions
 
