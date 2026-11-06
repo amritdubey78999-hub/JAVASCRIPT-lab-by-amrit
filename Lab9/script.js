@@ -1,8 +1,3 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 9 - DOM, Validation, Storage and Quiz
-*/
 
 // Task 2 (works in node and in the browser)
 function validateForm(name) {
