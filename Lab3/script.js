@@ -1,8 +1,4 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 3 - Conditions and Loops
-*/
+
 
 // Task 1
 console.log("--- Task 1 ---");
