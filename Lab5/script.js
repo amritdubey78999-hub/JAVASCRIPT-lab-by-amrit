@@ -1,8 +1,4 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 5 - Arrays, Array Methods and Nested Arrays
-*/
+
 
 // Task 1
 console.log("--- Task 1 ---");
