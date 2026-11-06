@@ -1,13 +1,8 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 7 - Constructor Functions and Classes
--->
 
 # Assignment 7: Constructor Functions and Classes
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** Amrit Dubey
+**Roll No:** BCS2025539
 **Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
 
 ## Aim
