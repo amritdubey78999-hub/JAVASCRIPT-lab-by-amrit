@@ -1,13 +1,8 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 4 - Writing Functions
--->
 
 # Assignment 4: Writing Functions
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** Amrit kumar dubey
+**Roll No:** BCS2025539
 **Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
 
 ## Aim
