@@ -1,8 +1,3 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 6 - JSON Text
-*/
 
 // Task 1
 console.log("--- Task 1 ---");
