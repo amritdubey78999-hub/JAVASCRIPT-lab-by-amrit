@@ -1,8 +1,4 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 10 - Objects and Destructuring
--->
+
 
 # Assignment 10: Objects and Destructuring
 
